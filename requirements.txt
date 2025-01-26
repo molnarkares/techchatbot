@@ -1,0 +1,13 @@
+fastapi~=0.115.7
+uvicorn~=0.34.0
+langchain~=0.3.15
+langchain-openai
+langchain-ollama
+langchain-chroma
+langchain-community~=0.3.15
+chromadb
+openai
+anthropic
+pydantic~=2.10.6
+python-multipart
+pypdf
